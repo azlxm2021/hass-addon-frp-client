@@ -1,3 +1,5 @@
+folk from https://github.com/huxiaoxu2019/hass-addon-frp-client ,thanks to the creater.
+
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/huxiaoxu2019/hass-addon-frp-client/tree/v1.0.0)
 
 ⚠️ **Note: This README corresponds to v1.0.0 and may not fully reflect the current state of the repository. Please change to the specific tag for the most accurate information.**
