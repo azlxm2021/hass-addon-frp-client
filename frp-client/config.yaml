@@ -27,6 +27,9 @@ options:
   webServerPassword: "123456789"
   customDomain: "example.com"
   proxyName: "homeassistant"
+  localIP: "127.0.0.1"
+  localPort: "3389"
+  remotePort:  "60090"
 schema:
   serverAddr: str
   serverPort: int
@@ -36,3 +39,6 @@ schema:
   webServerPassword: str
   customDomain: str
   proxyName: str
+  localIP: str
+  localPort: int
+  remotePort:  int
