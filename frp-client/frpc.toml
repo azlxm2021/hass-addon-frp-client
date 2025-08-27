@@ -25,9 +25,9 @@ type = "tcp"
 #customDomains = ["your_domain"]
 transport.useEncryption = true
 transport.useCompression = false
-localPort = "your_local_port"
-remotePort = "your_remote_port"
-localIP = "your_local_ip"
+localPort = 123
+remotePort = 123
+localIP = "123"
 
 # [proxies.plugin]
 # type = "https2http"
