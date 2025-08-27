@@ -1,4 +1,4 @@
-folk from https://github.com/huxiaoxu2019/hass-addon-frp-client ,thanks to the creater.
+folk from https://github.com/huxiaoxu2019/hass-addon-frp-client ,thanks to the creater.I made a few changes in order to use tcp proxy mode instead ,since vhttp mode is not well adapted in certain servers, where requires a registered domain. Otherwise, domain-based access will be  blocked by servce-provider ,offen refects as ssl-handshake failure due to SNI block. Althouge you may change settings through frpc dashboard, but nothing remains when frpc service restarts.So it is just DIY for my personal use.   
 
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/huxiaoxu2019/hass-addon-frp-client/tree/v1.0.0)
 
